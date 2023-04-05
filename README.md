@@ -8,7 +8,7 @@ To predict things have been never so easy. I used to wonder how Insurance amount
 <ol>
     <li>Exploring the dataset</li>
     <li>Converting Categorical values to Numerical</li>
-    <li>Plotting Heatmap to see dependency of Dependent valeu on Independent features</li>
+    <li>Plotting Heatmap to see dependency of Dependent value on Independent features</li>
     <li>Data Visualization (Plots of feature vs feature)</li>
     <li>Plotting Skew and Kurtosis</li>
     <li>Data Preparation</li>
